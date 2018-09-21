@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B8216DB82154D0BE00311C55 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B8216DB72154D0BE00311C55 /* README.md */; };
+		B8216DBA2154D0C500311C55 /* MGBaseViewSwift.podspec in Resources */ = {isa = PBXBuildFile; fileRef = B8216DB92154D0C500311C55 /* MGBaseViewSwift.podspec */; };
 		B8B8BCAC206A197C005E5906 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8B8BCAB206A197C005E5906 /* AppDelegate.swift */; };
 		B8B8BCAE206A197C005E5906 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8B8BCAD206A197C005E5906 /* ViewController.swift */; };
 		B8B8BCB1206A197C005E5906 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8B8BCAF206A197C005E5906 /* Main.storyboard */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B8216DB72154D0BE00311C55 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
+		B8216DB92154D0C500311C55 /* MGBaseViewSwift.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = MGBaseViewSwift.podspec; path = ../../MGBaseViewSwift.podspec; sourceTree = "<group>"; };
 		B8B8BCA8206A197C005E5906 /* MGBaseViewSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MGBaseViewSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8B8BCAB206A197C005E5906 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B8B8BCAD206A197C005E5906 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -62,6 +66,8 @@
 				B8B8BCB2206A197C005E5906 /* Assets.xcassets */,
 				B8B8BCB4206A197C005E5906 /* LaunchScreen.storyboard */,
 				B8B8BCB7206A197C005E5906 /* Info.plist */,
+				B8216DB72154D0BE00311C55 /* README.md */,
+				B8216DB92154D0C500311C55 /* MGBaseViewSwift.podspec */,
 				B8B8BCBD206A19F0005E5906 /* Classes */,
 			);
 			path = MGBaseViewSwift;
@@ -144,6 +150,8 @@
 			files = (
 				B8B8BCB6206A197C005E5906 /* LaunchScreen.storyboard in Resources */,
 				B8B8BCB3206A197C005E5906 /* Assets.xcassets in Resources */,
+				B8216DBA2154D0C500311C55 /* MGBaseViewSwift.podspec in Resources */,
+				B8216DB82154D0BE00311C55 /* README.md in Resources */,
 				B8B8BCB1206A197C005E5906 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
